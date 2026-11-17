@@ -6,4 +6,4 @@ OpenMC-based parametric study of neutron moderation effects in a 17×17 PWR fuel
 ![Optimum Moderation](moderation_pitch_optimum.png)
 
 ![Over-moderated](moderation_pitch_over.png)
-![Neutron Moderation Animation](moderation_pitch.gif)
+![Neutron Moderation Animation](moderation_pitch_new.gif)
